@@ -1,2 +1,2 @@
 # miniphotochanger
--- there you will be abale too change your photoes in this program but there's no bio yet
+-- there you will be able too change your photoes in this program
